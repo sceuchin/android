@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:alphabeticShortcut="s"/>
+    
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:alphabeticShortcut="s"/>
+
+</menu>
